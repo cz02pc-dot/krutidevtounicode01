@@ -288,6 +288,7 @@ const focusedSections = {
       title: "How to navigate this site",
       paragraphs: [
         "Use Main Guide for full conversion sequence. Use Troubleshooting for broken output symptoms. Use Typing Tips for upstream quality control. Use Case Studies for rollout planning.",
+        "Need quick tools? Use <a class=\"hero-link-highlight\" href=\"https://krutidev-to-unicode.com/\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>krutidev to unicode</strong></a> for instant conversion and practice with <a class=\"hero-link-highlight\" href=\"https://krutidev-to-unicode.com/online-hindi-typing-test-free/\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>hindi typing test</strong></a>.",
         "The blog contains scenario-specific articles such as CPCS preparation and government form workflows so teams can apply methods quickly.",
         "This structure is intentional: each page exists to solve one decision type clearly."
       ]
